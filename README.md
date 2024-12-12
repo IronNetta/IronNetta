@@ -8,7 +8,7 @@ Passionné par le développement, je suis spécialisé en web development avec J
 
 * 🌍  Je suis de Bruxelles
 * ✉️  Tu peux me contacter : [delaet.sebastien22@gmail.com](mailto:delaet.sebastien22@gmail.com)
-* 🧠  J'apprend le C# , Java, blueprint,...
+* 🧠  J'apprend le C#, C++ , Java, blueprint,...
 
 ### Skills
 
